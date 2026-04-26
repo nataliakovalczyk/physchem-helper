@@ -4,6 +4,7 @@ Test assignment (lecture material) from RSE in Python course
 [![tests](https://github.com/nataliakovalczyk/physchem-helper/actions/workflows/tests.yml/badge.svg?branch=work-branch)](https://github.com/nataliakovalczyk/physchem-helper/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/nataliakovalczyk/physchem-helper/branch/work-branch/graph/badge.svg)](https://codecov.io/gh/nataliakovalczyk/physchem-helper)
 [![docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://nataliakovalczyk.github.io/physchem-helper/)
+[![Open demo in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19bohV-_yJ06JfXxVBr5BSnxn-uF5jHsO?usp=sharing)
 
 ## Usage
 
